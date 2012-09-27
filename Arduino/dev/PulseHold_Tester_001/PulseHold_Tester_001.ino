@@ -33,8 +33,8 @@ Tester sketch for MIDI control of dual voltage circuit
 
 int AllNotesOff = 123;
 
-int testSolenoidPULSE = 8; //Assign solenoid pins, 24V
-int testSolenoidHOLD = 9; // 12V
+int testSolenoidPULSE = 9; //Assign solenoid pins, 24V
+int testSolenoidHOLD = 10; // 12V
   
 int solenoidVel = 0; //Integers to store solenoid velocities
 
